@@ -10,11 +10,11 @@
 本词库整合了 **[CustomPinyinDictionary](https://github.com/wuhgit/CustomPinyinDictionary)**  项目的词汇，实现对原版 `cn_dicts/tencent.dict.yaml` 词库的扩展。
 
 ⚠️ **重要提示**：
-1. 词库增大**100万+**词汇，会显著增加部署时间
-2. 仅在**26键全拼输入**方案下测试通过
+1. 词库增大**100万+**词汇，会显著增加导入时间
+2. 自用**26键拼音输入**方案下测试通过
 
 ### ⚙️ 安装方法
-直接替换tencent.dict.yaml文件
+解压缩，同名文件直接替换cn_dicts下的tencent.dict.yaml文件
 
 ---
 
