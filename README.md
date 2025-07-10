@@ -6,8 +6,8 @@
 
 ## 📖 使用说明
 
-### 🔧 扩展原理
-本词库整合了 **[CustomPinyinDictionary](https://github.com/wuhgit/CustomPinyinDictionary)**  项目的词汇，实现对原版 `cn_dicts/tencent.dict.yaml` 词库的扩展。
+### 🔧 扩展词库
+本词库整合了 **[CustomPinyinDictionary](https://github.com/wuhgit/CustomPinyinDictionary)**  项目的词汇，去重+补充原词表中的拼音，实现对原版 `cn_dicts/tencent.dict.yaml` 词库的扩展。
 
 ⚠️ **重要提示**：
 1. 词库增大**100万+**词汇，会显著增加导入时间
